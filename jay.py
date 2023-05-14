@@ -2,7 +2,7 @@
 print('byessss')
 
 for i in range(1,7):
-  print('#'*i)
+  print('*'*i)
 
-for i in range(7):
+for i in range(20):
   print(i)
