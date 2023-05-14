@@ -1,0 +1,2 @@
+#printsomething
+print('hi')
